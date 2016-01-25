@@ -143,6 +143,7 @@ coding style guides and development practices across the web.
 
 + [Scala Style Guide](http://docs.scala-lang.org/style/)
 + [Effective Scala](http://twitter.github.io/effectivescala/)
++ [Databricks Scala Style Guide (Recommended)](https://github.com/databricks/scala-style-guide)
 
 ### Shell
 
